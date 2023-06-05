@@ -1,0 +1,37 @@
+[
+    {
+      "id": 0,
+      "title": "Noteworthy ",
+      "description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+      "imageSrc": "../images/led.png",
+      "imageAlt": "Image 1",
+      "link": "/LedDetail/:id",
+      "displaySize": "2000 x 1000 mm / 88 Inch",
+      "displayRatio": "Ratio : 4 : 1",
+      "productName": "SIGNEON 3rd"
+    },
+    {
+        "id": 1,
+        "title": "technology acquisitions ",
+        "description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "imageSrc": "../images/led.png",
+        "imageAlt": "Image 1",
+        "link": "/LedDetail/:id",
+        "displaySize": "2000 x 1000 mm / 88 Inch",
+        "displayRatio": "Ratio : 8 : 1",
+        "productName": "SIGNEON 3rd"
+      },
+
+      {
+        "id": 2,
+        "title": "acquisitions 2021",
+        "description": "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
+        "imageSrc": "../images/led.png",
+        "imageAlt": "Image 1",
+        "link": "/LedDetail/:id",
+        "displaySize": "2000 x 1000 mm / 88 Inch",
+        "displayRatio": "Ratio : 8 : 1",
+        "productName": "SIGNEON"
+      }
+  ]
+  
